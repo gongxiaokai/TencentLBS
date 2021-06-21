@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'TencentLBS'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of TencentLBS.'
+  s.summary          = 'a library of TencentLBS.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,10 +18,10 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+  TencentLBS SDK has not been updated sin 2018, to integrate more easily, create this repo
                        DESC
 
-  s.homepage         = 'https://github.com/804258952@qq.com/TencentLBS'
+  s.homepage         = 'https://lbs.qq.com/'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '804258952@qq.com' => 'ch3coohna@qq.com' }
