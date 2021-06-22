@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'TencentLBS'
+  s.name             = 'TencentLBS_NX'
   s.version          = '3.18'
   s.summary          = 'a library of TencentLBS.'
 
